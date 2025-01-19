@@ -10,10 +10,11 @@
 python / HTML,JS,CSS 项目构建&开发
 
 - 🔭 主攻语言：py html，css，js
-- 🌱 正在开发项目：python chatterbot训练
+- 🌱 正在开发项目：python chatterbot模型训练
 - ⚡作品：
-     个人博客：[www.mrzxr.com]
-     rido community forum: [rrdd.top]
+     个人博客：www.mrzxr.com
+  
+     rido community forum: rrdd.top
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terryzhangxr)
 

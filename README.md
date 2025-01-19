@@ -35,8 +35,9 @@ python / HTML,JS,CSS 项目构建&开发
 ## 联系我：
 - Email：[zhang@mrzxr.com](mailto:zhang@mrzxr.com)
 
-- wechat：
-  ![]()
+- wechat QR码：
+     
+  ![](https://space.bilibili.com/3546622533306643?spm_id_from=333.1007.0.0%2F)
 
 
 

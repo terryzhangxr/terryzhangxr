@@ -37,7 +37,7 @@ python / HTML,JS,CSS 项目构建&开发
 
 - wechat QR码：
      
-![image](https://github.com/user-attachments/assets/014acc39-54fd-4b9b-8949-b091bd471624)
+![image](https://github.com/user-attachments/assets/d621357a-149d-4359-b938-ad63d1bf565b)
 
 
 

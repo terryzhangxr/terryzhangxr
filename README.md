@@ -5,6 +5,10 @@
 </p>
 
 ## WELOCME TO TERRYZHANG'S WORLD!
+中国 上海 学生
+python / HTML,JS,CSS 项目构建&开发
+
+![](https://github-readme-stats.vercel.app/api?username=terryzhangxr)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

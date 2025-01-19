@@ -1,6 +1,10 @@
-## Hi there 👋
+<p align="center"> 
+  <a href="https://www.mrzxr.com">
+    <img src="https://github.com/user-attachments/assets/bc8ec403-c1ca-41de-be3c-62dadc48d895">
+  </a>
+</p>
 
-
+## WELOCME TO TERRYZHANG'S WORLD!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,5 +14,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TERRY ZHANG (3)](https://github.com/user-attachments/assets/bc8ec403-c1ca-41de-be3c-62dadc48d895)
+
 

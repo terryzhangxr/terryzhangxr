@@ -14,7 +14,7 @@ python / HTML,JS,CSS 项目构建&开发
 - 🌱 正在开发项目：python chatterbot模型训练
 
   
-##⚡网页作品：
+## 网页作品：
   
   个人博客：www.mrzxr.com
   

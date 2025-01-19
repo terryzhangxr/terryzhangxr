@@ -37,7 +37,8 @@ python / HTML,JS,CSS 项目构建&开发
 
 - wechat QR码：
      
-  ![](https://space.bilibili.com/3546622533306643?spm_id_from=333.1007.0.0%2F)
+  ![](![微信图片_20250120004808](https://github.com/user-attachments/assets/42b1df18-2750-4b5f-8b96-5cd4b028cf41)
+)
 
 
 

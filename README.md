@@ -1,10 +1,10 @@
-<h1 align="center"> 
+<p align="center"> 
   <a href="https://www.mrzxr.com">
     <img src="https://github.com/user-attachments/assets/bc8ec403-c1ca-41de-be3c-62dadc48d895">
   </a>
-</h1>
+</p>
 
-# WELOCME TO TERRYZHANG'S WORLD!
+## WELOCME TO TERRYZHANG'S WORLD!
 中国 上海 初二学生
       
 python / HTML,JS,CSS 项目构建&开发

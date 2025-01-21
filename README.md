@@ -17,8 +17,10 @@ python / HTML,JS,CSS 项目构建&开发
 ## 网页作品：
   
   个人博客：www.mrzxr.com
+
+  portfolio： portfolio.mrzxr.com
   
-   rido community forum: [rrdd.top](rrdd.top)
+  rido community forum: [rrdd.top](rrdd.top)
   
 
 ## 项目语言统计

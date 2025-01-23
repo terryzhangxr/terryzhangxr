@@ -11,7 +11,7 @@ python / HTML,JS,CSS 项目构建&开发
 
 
 - 🔭 主攻语言：py html，css，js
-- 🌱 正在开发项目：python chatterbot模型训练
+- 🌱 正在开发项目：python chatterbot模型训练 & portfolio个人影集前端开发
 
   
 ## 网页作品：

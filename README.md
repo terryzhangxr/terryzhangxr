@@ -11,7 +11,7 @@ python / HTML,JS,CSS 项目构建&开发
 
 
 - 🔭 主攻语言：py html，css，js
-- 🌱 正在开发项目：基于next.js的博客主题theme tycape开发
+- 🌱 正在开发项目：python chatterbot模型训练 & portfolio个人影集前端开发
 
   
 ## 网页作品：
@@ -21,8 +21,7 @@ python / HTML,JS,CSS 项目构建&开发
   portfolio： [portfolio.mrzxr.com](https://portfolio.mrzxr.com)
   
   rido community forum: [rrdd.top](https://rrdd.top)
-
-  tycape博客主题（正在开发）
+  
 
 ## 项目语言统计
 
@@ -41,8 +40,3 @@ python / HTML,JS,CSS 项目构建&开发
 - wechat QR码：
      
 ![image](https://github.com/user-attachments/assets/d621357a-149d-4359-b938-ad63d1bf565b)
-
-
-
-
-

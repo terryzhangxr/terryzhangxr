@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="https://www.mrzxr.com">
-    <img src="https://bgithub.xyz/user-attachments/assets/bc8ec403-c1ca-41de-be3c-62dadc48d895">
+    <img src="https://github.com/user-attachments/assets/bc8ec403-c1ca-41de-be3c-62dadc48d895">
   </a>
 </p>
 

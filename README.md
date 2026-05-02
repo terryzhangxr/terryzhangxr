@@ -19,6 +19,8 @@ python / HTML,JS,CSS 项目构建&开发
   个人博客：www.mrzxr.com
 
   portfolio： [portfolio.mrzxr.com](https://portfolio.mrzxr.com)
+
+  typace博客框架： [typace.mrzxr.com](https://typace.mrzxr.com)
   
   rido community forum: [rrdd.top](https://rrdd.top)
   
